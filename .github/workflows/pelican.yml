@@ -14,3 +14,4 @@ jobs:
       settings: "publishconf.py"
       requirements: "-r requirements.txt"
       theme: "https://github.com/markbush/notmyidea-spatial.git"
+      siteurl: "https://blog.bushnet.org"
