@@ -6,7 +6,7 @@ PATH = "content"
 
 TIMEZONE = 'Europe/London'
 
-THEME = '/Users/bush/Developer/Pelican/my-themes/notmyidea-spatial'
+THEME = '/Users/bush/Developer/IdeaProjects/notmyidea-spatial'
 
 DEFAULT_LANG = 'en'
 DEFAULT_DATE = 'fs'
