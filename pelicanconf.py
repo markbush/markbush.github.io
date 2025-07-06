@@ -15,6 +15,8 @@ STATIC_PATHS = [
     "images"
     # , "js"
 ]
+ARTICLE_URL = "{category}/{slug}.html"
+ARTICLE_SAVE_AS = "{category}/{slug}.html"
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None

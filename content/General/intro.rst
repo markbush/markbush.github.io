@@ -9,7 +9,6 @@ Welcome
 .. figure:: {static}/images/ai/welcome.jpg
   :alt: Welcome
   :width: 40%
-  :class: centre
 
 Welcome to my blog!  This is a collection of some of the ramblings, thoughts, and ideas I have from time to time.  I don't claim to any kind of authority in anything I write about here and just post in the hope that something might be interesting or useful to others.
 
