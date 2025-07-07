@@ -1,6 +1,7 @@
 What is a Panorama?
 ###################
 
+:date: 2025-07-06 17:15
 :summary: An investigation into what is required for Apple products to recognise an image as a panorama.
 
 A question which I have seen posted on many sites and forums is how to get Apple's Photos app to recognise an image as a panorama.

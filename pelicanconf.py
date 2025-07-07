@@ -9,7 +9,7 @@ TIMEZONE = 'Europe/London'
 THEME = '/Users/bush/Developer/IdeaProjects/notmyidea-spatial'
 
 DEFAULT_LANG = 'en'
-DEFAULT_DATE = 'fs'
+#DEFAULT_DATE = 'fs'
 
 STATIC_PATHS = [
     "images"
