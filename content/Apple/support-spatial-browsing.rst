@@ -89,8 +89,6 @@ The following images are all screenshots taken from the video of the WWDC 2025 K
   :alt: An image of some Apple devices.
   :class: img-group-3
 
-[Edit for visionOS 26 beta 3: The third image above is no longer transformed into a spatial scene.  It would appear that the model used to recognise "abstract" images has changed.  The images I have tried suggest it is better at recognising suitable images, however all "AI" models can get things wrong so you will always need to try things out to be sure.  Also, before beta 3, multiple images would display overlapping, however this is no longer the case and there is now space between consecutive images.]
-
 However, these images do not transform:
 
 .. image:: {static}/images/spatial/visionOS.png
@@ -101,6 +99,8 @@ However, these images do not transform:
   :alt: An image of some more Apple devices.
   :class: img-group-3
 
-It is understandable that these might be considered too "abstract" to be worth processing as spatial scenes.  It is not clear why the third image above is transformed, though [Edit for visionOS 26 beta 3: that image is no longer transformed].  Clearly, if you want your images to work, you may need to try different compositions in order to guarantee success!
+It is understandable that these might be considered too "abstract" to be worth processing as spatial scenes.  It is not clear why the third image above is transformed, though.  Clearly, if you want your images to work, you may need to try different compositions in order to guarantee success!
 
 Hopefully, this has given you some ideas about what might work.  Good luck creating your own spatial content!
+
+[Edit: the algorithm which determines if an image is suitable for transforming into a spatial image changes slightly with each OS release so you will need to check after each update to see if images you use work or not...]
