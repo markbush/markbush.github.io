@@ -34,4 +34,13 @@ Once you have your images, Image View 360 is a great way to browse through them 
 
 .. image:: {static}/images/apps/image-view-360/ImageView360demo3.png
   :alt: A selected photo fills the space around the user
-  :class: large, left
+  :class: large
+
+Privacy Policy
+--------------
+
+The application Image View 360 does not collect, store, or share any data.
+
+Image View 360 accesses and processes your photos from the Photos app in order to display them as thumbnails in a window and to display them in the space around you.  Photos are not stored in the app, but are accessed directly from the Photos app every time.
+
+Your photos remain secure.
