@@ -30,7 +30,7 @@ You can move the globe to see the changes from different points.  The up arrow w
 
 On the iPhone and iPad, you can move your device to move the globe.  Use the little globe button to toggle this behaviour on and off.
 
-This application works on iPhone, iPad, and Apple Vision Pro.
+This application works on iPhone, iPad, Mac (using the iPad version), and Apple Vision Pro.
 
 .. _EarthByte: https://www.earthbyte.org/paleodem-resource-scotese-and-wright-2018/
 
