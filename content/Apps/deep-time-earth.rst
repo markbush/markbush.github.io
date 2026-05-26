@@ -3,14 +3,7 @@ Deep Time Earth
 
 :date: 2026-05-25 16:00
 :summary: Deep Time Earth - view the Earth over the last 540 million years
-
-.. raw:: html
-
-  <div class="figure">
-  <a class="reference external image-reference" href="https://apps.apple.com/us/app/deep-time-earth/id6773017591">
-  <img src="{static}/images/apps/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg" alt="Download on the App Store." />
-  </a>
-  </div>
+:appstore: https://apps.apple.com/us/app/deep-time-earth/id6773017591
 
 Deep Time Earth allows you to view what the Earth looked like over the last 540 million years.
 

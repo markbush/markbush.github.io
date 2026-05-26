@@ -3,14 +3,7 @@ Image Adjust 360
 
 :date: 2026-05-14 18:00
 :summary: Image Adjust 360 - a photo editor for 360º images
-
-.. raw:: html
-
-  <div class="figure">
-  <a class="reference external image-reference" href="https://apps.apple.com/us/app/image-adjust-360/id6768981202">
-  <img src="{static}/images/apps/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg" alt="Download on the App Store." />
-  </a>
-  </div>
+:appstore: https://apps.apple.com/us/app/image-adjust-360/id6768981202
 
 Image Adjust 360 is an application which allows you to adjust the default front view of 360º equirectangular images from your Photos library.
 

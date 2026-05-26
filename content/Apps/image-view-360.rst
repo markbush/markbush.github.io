@@ -3,14 +3,7 @@ Image View 360
 
 :date: 2026-05-13 18:00
 :summary: Image View 360 - a photo viewer for 360º images
-
-.. raw:: html
-
-  <div class="figure">
-  <a class="reference external image-reference" href="https://apps.apple.com/gb/app/image-view-360/id6768980652">
-  <img src="{static}/images/apps/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg" alt="Download on the App Store." />
-  </a>
-  </div>
+:appstore: https://apps.apple.com/gb/app/image-view-360/id6768980652
 
 Image View 360 is an application to allow you to view all your 360º equirectangular images from your Photos library or Files app.
 
