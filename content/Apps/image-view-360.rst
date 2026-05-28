@@ -25,17 +25,29 @@ Once you have your images, Image View 360 is a great way to browse through them 
 
 This application works on Apple Vision Pro.
 
+.. image:: {static}/images/apps/image-view-360/ImageView360demo4.png
+  :alt: Application About screen
+  :class: medium
+
 .. image:: {static}/images/apps/image-view-360/ImageView360demo1.png
   :alt: A gallery of equirectangular images
-  :class: large, left
+  :class: medium
 
 .. image:: {static}/images/apps/image-view-360/ImageView360demo2.png
   :alt: A map displaying the locations of photos
-  :class: large, left
+  :class: medium
 
 .. image:: {static}/images/apps/image-view-360/ImageView360demo3.png
   :alt: A selected photo fills the space around the user
-  :class: large
+  :class: medium
+
+.. image:: {static}/images/apps/image-view-360/ImageView360demo5.png
+  :alt: Accessing images from Files
+  :class: medium
+
+.. image:: {static}/images/apps/image-view-360/ImageView360demo6.png
+  :alt: Connecting to a network SMB share
+  :class: medium
 
 Privacy Policy
 --------------
