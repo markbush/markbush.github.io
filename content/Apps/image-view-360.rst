@@ -9,6 +9,8 @@ Image View 360 is an application to allow you to view all your 360º equirectang
 
 You can browse your entire collection of 360º images in a single grid.  Settings allow you to order them oldest first or newest first and you can change the size of the thumbnails displayed.  Selecting an image will display it in an immersive view around you enabling you to relive the experience of being there.
 
+While viewing an image in immersive mode, you can look around you to experience the full view.  You can also use the handy buttons to rotate the image by 45º, 90º, or 180º to avoid the need to look around you - handy for armchair viewing!
+
 If the images are in albums in your Photos library, then those albums will be displayed in the sidebar allowing you to browse groups of images.
 
 There is also a map view to see your images by location.  All of your 360º images which have their location set will be displayed.  Photos missing a location can be updated in the Photos app.  Selecting an image will show it around you.  If you select a grouping of images, it will expand allowing you to select individual ones.  The map can be toggled between standard and satellite view.
